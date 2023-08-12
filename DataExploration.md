@@ -1,4 +1,6 @@
 Link To the DATASET- https://ourworldindata.org/
+                     https://ourworldindata.org/covid-deaths
+                     https://ourworldindata.org/covid-vaccinations
 
 
 
